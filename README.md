@@ -2,7 +2,7 @@
 
 **A Python-based wealth simulation engine that builds mathematically optimal investment portfolios using Monte Carlo simulations and Fama-French Factor Analysis.**
 
-> **Project Evolution:** This engine is a combanation of my Quantitative Finance projects, combining logic from teh following:
+> **Project Evolution:** This engine is a combanation of my Quantitative Finance projects, combining logic from the following:
 > 1.  **(Asset Correlation Matrix):** Provided the logic to see which assets move together (and which don't) to prevent doubling up on risk.
 > 2.  **(Factor Exposure Engine):** Provided the Fama-French regression model to check if returns are coming from skill or just hidden market exposure.
 > 3.  **(Sharpe Ratio Comparison):** Established the core metric for finding the best possible return for every unit of risk taken.
