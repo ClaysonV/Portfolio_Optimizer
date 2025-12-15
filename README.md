@@ -54,15 +54,19 @@ The project generates a visual analytics dashboard that includes:
 
 #### 1. The Efficient Frontier
 *Visualizes the risk/reward tradeoff of the 5,000 simulated portfolios. The red star marks the "Mathematically Optimal" choice.*
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/a670ebc4-2d66-4ac5-833f-829f7792d8fb" />
 
 #### 2. Optimized Asset Allocation
 *A "Donut Chart" breakdown of the final portfolio, filtering out insignificant positions to show exactly where the capital is allocated.*
+<img width="1400" height="700" alt="Figure_2" src="https://github.com/user-attachments/assets/b67532c9-8d62-4c68-abe3-63aac7762a13" />
 
 #### 3. Wealth Simulation (Backtest)
 *A "Spaghetti Chart" that plots the optimized portfolio (Blue) against the S&P 500 (Black) and 50 random scenarios (Grey) to show relative performance.*
+<img width="1200" height="700" alt="Figure_3" src="https://github.com/user-attachments/assets/b89b7756-ca2d-4a9c-98f4-272f9028129c" />
 
 #### 4. Asset Correlation Matrix
 *A heatmap I built to quickly identify which assets move together, helping to spot "fake diversification."*
+<img width="1400" height="739" alt="Figure_4" src="https://github.com/user-attachments/assets/7841650c-735c-41e5-a284-0b0ab07f2c54" />
 
 ---
 
